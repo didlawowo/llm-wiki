@@ -22,6 +22,7 @@ llm-wiki/
 │   ├── maison/    → jardin, arrosage, Home Assistant
 │   ├── dev/       → homelab, RKE2, GitOps, projets
 │   ├── recherche/ → veille, analyses
+│   ├── mecanique/ → VW Polo 9N3, entretien, chantiers
 │   └── gumpy/     → photobooth, prospection mairies
 ├── data/          → données brutes par projet (backup cluster)
 │   └── gumpy-prospection/
