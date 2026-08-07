@@ -105,7 +105,15 @@ de la SCPI sur le même capital.
     → Consommer les dividendes = choix de consommation (22 000 € perdus à 5 ans),
     pas une optimisation. Prendre les dividendes ET les poser sur livret ne coûte
     que ~1 700 € à 5 ans vs réinvestir → meilleur compromis trésorerie/capitalisation.
-    Solder le crédit reste le pire : −26 888 € capital + −4 000 € rendement.
+    Solder le crédit reste le pire : ~4 000 € de rendement perdu à 5 ans.
+
+    **Clarification « coût de solder »** : solder ne fait pas perdre 26 888 € — le
+    patrimoine net est inchangé à l'instant T (échange cash contre dette effacée).
+    Le coût réel = le rendement alternatif laissé sur la table : solder = placer
+    26 888 € à 1,17 % (taux du crédit) au lieu de ~4,88 % net (SCPI) ou 1,70 %
+    (livret) → ~4 000 € de manque à gagner sur 5 ans vs SCPI. Le « 454 €/mois
+    libéré » n'est pas un gain à 27 % : c'est le capital qui revient (454 € × 60
+    ≈ 27 240 € = le capital + ~800 € d'intérêts évités).
 
 ## Points de vigilance
 
