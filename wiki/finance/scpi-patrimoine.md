@@ -77,3 +77,5 @@ de la SCPI sur le même capital.
 - Dashboard CORUM Origin (capture Chris, 07/08/2026) — 20 740,49 €, 18,27 parts
 - Détail du prêt (capture Chris, 07/08/2026) — 26 888,68 € restant, 1,17 % fixe,
   454,25 €/mois, fin 07/09/2031 · calculs intérêts restants : Hermes (07/08/2026)
+- Tableau d'amortissement Crédit Agricole (PDF, 07/08/2026) — 61 000 €, 1,17 %,
+  144 mois, 454,25 €/mois, capital restant 26 888,68 € au 07/08/2026, fin 07/09/2031
