@@ -133,6 +133,23 @@ de la SCPI sur le même capital.
     (3) vacance = matelas intact + distribution qui couvre ; (4) prendre les
     dividendes coûte ~4 000 € de capitalisation à 5 ans, pas 26 888 € + matelas.
 
+    **VERDICT RÉVISÉ (07/08/2026, après modèle complet)** — Chris avait raison :
+    le taux de 1,17 % ne compense pas la saignée mensuelle du crédit sur le
+    cash-flow réel. Tant qu'on garde le crédit, le studio dégage −46 €/mois
+    (loyer 520 − charges 80 − taxe foncière 42 − copro 20 − mensualité 454).
+    Le modèle complet (60 mois, vacance 1 mois/an, SCPI en distribution) :
+    - **Solder partiel 20k (cash) + SCPI en distribution : tréso cumulée +36 775 €
+      à 5 ans, patrimoine 196 650 €, matelas reconstitué en ~2 ans** ← le meilleur
+      montage trésorerie pour Chris.
+    - Solder total (20k + 6 888 poche) : +37 155 € tréso mais patrimoine 168 197 €
+      (sortir 6 888 € de poche en plus ne vaut pas le coup).
+    - Garder + distribuer : patrimoine ~195 900 € mais tréso ~20 000 € seulement.
+    → **Plan validé** : (1) solder 20k du crédit (reste 6 888 € fini en ~16 mois) ;
+    (2) basculer Iroko Zen + CORUM en distribution (~326 €/mois nets) ; (3) le
+    studio redevient cash-flow positif (~440 €/mois net) ; (4) le matelas se
+    reconstitue avec la tréso. Résultat : ~700-750 €/mois de trésorerie réelle,
+    patrimoine quasi intact.
+
 ## Points de vigilance
 
 - **Iroko Zen** : frais de sortie 6 % avant 3 ans (0 % après 3 ans) — mais à partir
