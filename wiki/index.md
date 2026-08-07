@@ -9,6 +9,7 @@ Carte des topics. Chaque page est à jour ; l'historique est dans git.
 | [Maison](maison/index.md) | Jardin, arrosage, scènes, Home Assistant |
 | [Dev](dev/index.md) | Homelab, RKE2, GitOps, services |
 | [Recherche](recherche/index.md) | Veille, analyses, benchmarks |
+| [Reconversion](reconversion/index.md) | Cours vacataire, établissements, immersions |
 | [Mécanique](mecanique/index.md) | VW Polo 9N3 — entretien, échéances, chantiers |
 | [Gumpy](gumpy/index.md) | Photobooth, prospection mairies |
 
