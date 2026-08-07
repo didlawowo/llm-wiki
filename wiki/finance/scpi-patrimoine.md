@@ -11,6 +11,9 @@ Situation patrimoniale immobilière (SCPI) de Chris et analyse de l'arbitrage
   - CORUM Origin : **20 740,49 €** — 18,27356 parts — progression +12,4 %,
     revenus générés 2 571,58 € dont 740,51 € réinvestis
 - **Cash dormant : ~20 000 €** sur compte bancaire (rendement ~0 %)
+- **Studio (location)** : loyer **520 €/mois**, charges **80 €/mois** → cash-flow réel
+  **−14,25 €/mois** (−171 €/an) hors impôts/imprévus : le loyer couvre la mensualité
+  du crédit, le studio est quasi auto-financé par le locataire.
 - **Crédit immo** (finance le studio, acheté 60k + frais de notaire) :
   - Capital restant dû : **26 888,68 €** — échéance **454,25 €/mois** (assurance incluse ~7,5 €/mois)
   - **Taux fixe : 1,17 %** — début 02/09/2019, fin 07/09/2031 (144 mois, ~5-6 ans restants)
@@ -59,13 +62,23 @@ de la SCPI sur le même capital.
    - Le 450 €/mois libéré n'est pas immédiat : solder 20k laisse 6 888 € de crédit,
      la mensualité court encore 16 mois ; et il est payé par 20k de cash qui
      auraient rapporté 5,08 % net en SCPI.
-4. **La SCPI finance déjà le crédit** : revenus SCPI ~450 €/mois (349,65 Iroko +
-   ~104 CORUM) ≈ mensualité 454,25 € → le crédit est auto-financé, il ne sort
-   rien de la poche de Chris.
-5. **Si peur du risque SCPI** : livret à ~2 % — bat le crédit ET reste liquide.
-6. **Garder un matelas de sécurité** : ne pas tout mettre en SCPI, conserver
+4. **Les revenus SCPI sont réinvestis, pas disponibles** (règle de gestion de Chris) :
+   les dividendes repartent en parts → ne tombent jamais sur le compte courant.
+   Donc le crédit (454,25 €/mois) est payé **par le loyer du studio** (520 € − 80 €
+   charges = 440 €, +14 € de poche environ), pas par la SCPI. Le studio est
+   auto-financé par le locataire ; le matelas cash reste essentiel (trous de
+   location, imprévus).
+5. **Le loyer rend le studio auto-financé** : 520 − 80 = 440 € vs mensualité 454 €.
+   Le crédit ne coûte que ~796 € d'intérêts au total restant (~0,59 %/an de
+   rendement implicite si on solde) → le remboursement anticipé est le placement
+   le moins rentable possible, pire qu'un livret.
+6. **Le matelas 20k = pare-feu anti-vacance** : il absorbe ~37 mois de trous de
+   location (mensualité + charges ≈ 534 €/mois). Solder le crédit avec ces 20k
+   détruit le seul outil qui protège le studio du risque locatif.
+7. **Si peur du risque SCPI** : livret à ~2 % — bat le crédit ET reste liquide.
+8. **Garder un matelas de sécurité** : ne pas tout mettre en SCPI, conserver
    6-12 mois de dépenses en cash/livret.
-7. Garder la SCPI existante jusqu'au bout : le rendement net (5,08 %) bat
+9. Garder la SCPI existante jusqu'au bout : le rendement net (5,08 %) bat
    largement le coût du crédit (1,17 %), c'est le levier positif à conserver.
 
 ## Points de vigilance
