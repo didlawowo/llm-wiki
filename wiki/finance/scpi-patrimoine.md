@@ -115,6 +115,24 @@ de la SCPI sur le même capital.
     libéré » n'est pas un gain à 27 % : c'est le capital qui revient (454 € × 60
     ≈ 27 240 € = le capital + ~800 € d'intérêts évités).
 
+    **Modèle complet 60 mois (charges studio, taxe foncière 500 €/an, copro/assurance
+    240 €/an, vacance 1 mois/an, TMI 11 %, SCPI 80 097 €, matelas 20k)** — patrimoine
+    net final + trésorerie mensuelle moyenne :
+    - Rendement SCPI 7,07 % → 5,5 % → 4 % → 2 % : le classement des scénarios ne
+      change pas (la baisse SCPI frappe les deux options également). Solder ne
+      protège pas de la baisse SCPI, il protège la mensualité.
+    - A. Garder crédit + SCPI réinvestie : tréso −46 €/mois (loyer+charges ne
+      couvrent pas tout) → entame le matelas. Pas viable confortablement.
+    - C. **Garder crédit + SCPI distribuée (326 €/mois nets) : tréso +280 €/mois,
+      matelas intact, même en stress (3 mois vacance + SCPI 4 % : +180 €/mois,
+      matelas 19 189 €)** → meilleur compromis trésorerie/sécurité.
+    - B/D. Solder (20k + 6 888 € de poche) : tréso +408/+734 €/mois MAIS matelas
+      VIDÉ → la vacance longue sort de la poche (le risque que Chris redoute).
+    → Réponse aux 4 objections de Chris : (1) baisse SCPI frappe les 2 scénarios ;
+    (2) charges/taxe foncière se paient avec les dividendes SCPI distribués ;
+    (3) vacance = matelas intact + distribution qui couvre ; (4) prendre les
+    dividendes coûte ~4 000 € de capitalisation à 5 ans, pas 26 888 € + matelas.
+
 ## Points de vigilance
 
 - **Iroko Zen** : frais de sortie 6 % avant 3 ans (0 % après 3 ans) — mais à partir
