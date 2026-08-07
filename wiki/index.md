@@ -6,7 +6,7 @@ Format : lien — résumé 1 ligne — (métadonnées).
 ## Finance
 
 - [msUSD](finance/msusd.md) — positions, rewards, stratégie depeg, Predictive Allocation — (état 07/08/2026)
-- [SCPI & arbitrage crédit](finance/scpi-patrimoine.md) — 80k SCPI (Iroko Zen + CORUM), crédit 27k à 6,38 %, verdict TMI 11 % — (07/08/2026)
+- [SCPI & arbitrage crédit](finance/scpi-patrimoine.md) — 80k SCPI (Iroko Zen + CORUM), crédit studio 1,17 %, ne pas solder — (07/08/2026)
 
 ## Énergie
 

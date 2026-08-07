@@ -11,9 +11,10 @@ Situation patrimoniale immobilière (SCPI) de Chris et analyse de l'arbitrage
   - CORUM Origin : **20 740,49 €** — 18,27356 parts — progression +12,4 %,
     revenus générés 2 571,58 € dont 740,51 € réinvestis
 - **Crédit immo** (finance le studio, acheté 60k + frais de notaire) :
-  - Restant dû : **27 000 €**, durée restante **6 ans** (72 mois), mensualité **450 €/mois**
-  - Taux implicite : ~6,20 % nominal / **TAEG ~6,38 %** (calcul Hermes 07/08/2026)
-  - Intérêts totaux restants : **~5 400 €**
+  - Capital restant dû : **26 888,68 €** — échéance **454,25 €/mois** (assurance incluse ~7,5 €/mois)
+  - **Taux fixe : 1,17 %** — début 02/09/2019, fin 07/09/2031 (144 mois, ~5-6 ans restants)
+  - Montant emprunté : 61 000 € · déjà remboursé : 34 111,32 €
+  - Intérêts restants : **~820 €** (calcul Hermes 07/08/2026)
 - **TMI : 11 %** · SCPI détenue depuis ~3 ans (sortie sans frais pour parts anciennes)
 
 ## Rendements nets d'impôt (TMI 11 %)
@@ -22,38 +23,32 @@ Situation patrimoniale immobilière (SCPI) de Chris et analyse de l'arbitrage
 |---|---|---|
 | Iroko Zen TDVM 2025 | 7,14 % | ~5,08 % |
 | CORUM Origin | ~6 % | ~4,3 % |
-| Coût du crédit | — | **6,38 % non déductible** (6,38 % × 0,718 ≈ 4,58 % si intérêts déductibles) |
+| Coût du crédit | 1,17 % | **~1,17 %** (intérêts quasi non taxables, crédit immo) |
 
-**Lecture** : le crédit coûte plus cher que ce que la SCPI rapporte net d'impôt.
-Le levier est négatif après impôt — c'est le cœur de l'arbitrage.
+**Lecture** : le crédit coûte **1,17 %** et la SCPI rapporte **~5,08 % net d'impôt**.
+Le levier est **très positif** : emprunter à 1,17 % pour placer à ~5 % net = spread
+de ~3,9 points. C'est exactement le montage qu'on veut garder.
 
-## Analyse de l'arbitrage (27k, horizon 6 ans)
+## Analyse de l'arbitrage (26 889 €, horizon ~5 ans)
 
-Méthode : patrimoine net à l'horizon (solder → on réinvestit la mensualité libérée ;
-garder → on garde la SCPI qui distribue). Hypothèses : SCPI nette TMI 11 % = 5,08 %,
-frais de sortie SCPI 0 % (parts > 3 ans) ou 6 %, IRA 0 ou 810 €, épargne réinvestie 2-4 %.
+Méthode : comparer les intérêts restants du crédit (~820 € sur 60 mois) au gain net
+de la SCPI sur le même capital.
 
-Résultats (écart solder − garder, sur 6 ans) :
-
-| Hypothèse | TMI 30 % | TMI 11 % |
-|---|---|---|
-| Sans frais sortie, sans IRA, épargne 4 % | +2 784 € (solder) | −40 € (égalité) |
-| Sans frais sortie, sans IRA, épargne 2 % | +627 € (solder) | −2 196 € (garder) |
-| Frais sortie 6 % + IRA, épargne 4 % | +354 € (solder) | −2 470 € (garder) |
-| Frais sortie 6 % + IRA, épargne 2 % | −1 803 € (garder) | −4 626 € (garder) |
+- Intérêts crédit économisés si on solde : **~820 €**
+- Gain SCPI net (TMI 11 %) sur 26 889 € : **~1 365 €/an → ~6 825 € sur 5 ans**
+- **Écart : garder la SCPI rapporte ~6 000 € de plus que solder**
+- Même avec 6 % de frais de sortie SCPI (1 613 €), solder reste ~4 400 € moins bon
 
 ### Verdict (TMI 11 %)
 
-1. **Garder la SCPI se défend, voire gagne** — l'écart est quasi neutre sans frais
-   de sortie, et clairement favorable à la SCPI si l'épargne réinvestie est à 2 %
-   (livret) ou s'il y a des frais de sortie/IRA à payer.
-2. **Ne pas vendre de SCPI pour solder** : les frais de sortie éventuels + IRA
-   (~810 €) + perte des revenus futurs mangent le gain.
-3. **Le crédit à 6,38 % reste cher** → la meilleure option sans vendre :
-   **rembourser par anticipation avec les dividendes** (~450 €/mois de revenus SCPI
-   ≈ la mensualité). Chaque remboursement partiel casse les intérêts à 6,38 %.
-4. Si le studio est **loué** (intérêts déductibles des revenus fonciers), le coût
-   réel du crédit tombe à ~4,58 % → garder la SCPI gagne encore plus nettement.
+1. **NE PAS solder.** Le crédit à 1,17 % est une aubaine : c'est l'argent le moins
+   cher qu'on puisse avoir. Le solder reviendrait à éteindre un levier à spread +3,9 pts.
+2. **Garder la SCPI, continuer à investir** les liquidités si besoin — le rendement
+   net (5,08 %) bat largement le coût du crédit (1,17 %).
+3. L'arbitrage initial du classeur « +3 257 € SCPI » tenait ; ici il est massivement
+   favorable à la SCPI, sans même discuter.
+4. Si besoin de cash, **rembourser par anticipation n'est pas prioritaire** : ce
+   crédit coûte moins cher que tout placement sûr. On le garde jusqu'au bout.
 
 ## Points de vigilance
 
@@ -65,6 +60,8 @@ Résultats (écart solder − garder, sur 6 ans) :
 - **Iroko Zen = 0 % frais de souscription** (atout majeur vs 10-12 % ailleurs).
 - Liquidité SCPI : retraits possibles mais pas garantis en timing ni en prix.
 - Le TDVM moyen du marché SCPI 2025 est **4,91 %** (ASPIM) — Iroko Zen est au-dessus.
+- Le crédit (1,17 % fixe depuis 2019) : ne jamais le rembourser par anticipation
+  sauf nécessité absolue — c'est le meilleur levier du patrimoine.
 
 ## Sources
 
@@ -78,4 +75,5 @@ Résultats (écart solder − garder, sur 6 ans) :
   https://www.pierrepapier.fr/scpi/toutes-les-performances-des-scpi-en-2025/ — 07/08/2026
 - Dashboard Louve Invest (capture Chris, 07/08/2026) — 59 357 €, 349,65 €/mois
 - Dashboard CORUM Origin (capture Chris, 07/08/2026) — 20 740,49 €, 18,27 parts
-- Taux crédit : calcul Hermes à partir de 27k / 72 mois / 450 € (07/08/2026)
+- Détail du prêt (capture Chris, 07/08/2026) — 26 888,68 € restant, 1,17 % fixe,
+  454,25 €/mois, fin 07/09/2031 · calculs intérêts restants : Hermes (07/08/2026)
