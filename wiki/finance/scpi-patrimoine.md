@@ -75,6 +75,10 @@ de la SCPI sur le même capital.
 6. **Le matelas 20k = pare-feu anti-vacance** : il absorbe ~37 mois de trous de
    location (mensualité + charges ≈ 534 €/mois). Solder le crédit avec ces 20k
    détruit le seul outil qui protège le studio du risque locatif.
+   **→ Solution : livret A/LDDS 1,70 % (août 2026), LEP 2,50 % si éligible.**
+   Le matelas reste 100 % liquide (retrait immédiat si impayé locataire) mais
+   rapporte ~340 €/an au lieu de 0 € — et 1,70 % > 1,17 % du crédit, donc spread
+   positif sans risque. Ne jamais laisser le matelas dormir à 0 %.
 7. **Si peur du risque SCPI** : livret à ~2 % — bat le crédit ET reste liquide.
 8. **Garder un matelas de sécurité** : ne pas tout mettre en SCPI, conserver
    6-12 mois de dépenses en cash/livret.
@@ -110,3 +114,5 @@ de la SCPI sur le même capital.
   454,25 €/mois, fin 07/09/2031 · calculs intérêts restants : Hermes (07/08/2026)
 - Tableau d'amortissement Crédit Agricole (PDF, 07/08/2026) — 61 000 €, 1,17 %,
   144 mois, 454,25 €/mois, capital restant 26 888,68 € au 07/08/2026, fin 07/09/2031
+- Taux épargne réglementée (août 2026) — Livret A/LDDS 1,70 %, LEP 2,50 % :
+  https://www.service-public.gouv.fr/particuliers/actualites/A18000 — 07/08/2026
