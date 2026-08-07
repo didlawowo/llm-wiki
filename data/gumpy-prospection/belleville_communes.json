@@ -1,0 +1,1612 @@
+[
+ {
+  "commune": "Belleville-en-Beaujolais",
+  "dept": "69",
+  "code_insee": "69019",
+  "population": 14016,
+  "distance_km": 1.6,
+  "slug": "belleville-en-beaujolais",
+  "norm": "belleville en beaujolais",
+  "url_annuaire": "/ville-belleville-en-beaujolais.html"
+ },
+ {
+  "commune": "Montmerle-sur-Saône",
+  "dept": "01",
+  "code_insee": "01263",
+  "population": 3799,
+  "distance_km": 2.8,
+  "slug": "montmerle-sur-saone",
+  "norm": "montmerle sur saône",
+  "url_annuaire": "/ville-montmerle-sur-saone.html"
+ },
+ {
+  "commune": "Saint-Georges-de-Reneins",
+  "dept": "69",
+  "code_insee": "69206",
+  "population": 4677,
+  "distance_km": 6.1,
+  "slug": "saint-georges-de-reneins",
+  "norm": "saint georges de reneins",
+  "url_annuaire": "/ville-saint-georges-de-reneins.html"
+ },
+ {
+  "commune": "Saint-Étienne-des-Oullières",
+  "dept": "69",
+  "code_insee": "69197",
+  "population": 2264,
+  "distance_km": 8.7,
+  "slug": "saint-etienne-des-oullieres",
+  "norm": "saint étienne des oullières",
+  "url_annuaire": "/mairie-saint-etienne-des-oullieres.html"
+ },
+ {
+  "commune": "Villié-Morgon",
+  "dept": "69",
+  "code_insee": "69267",
+  "population": 2148,
+  "distance_km": 8.9,
+  "slug": "villie-morgon",
+  "norm": "villié morgon",
+  "url_annuaire": "/mairie-villie-morgon.html"
+ },
+ {
+  "commune": "Romanèche-Thorins",
+  "dept": "71",
+  "code_insee": "71372",
+  "population": 2005,
+  "distance_km": 9.2,
+  "slug": "romaneche-thorins",
+  "norm": "romanèche thorins",
+  "url_annuaire": "/mairie-romaneche-thorins.html"
+ },
+ {
+  "commune": "Fareins",
+  "dept": "01",
+  "code_insee": "01157",
+  "population": 2533,
+  "distance_km": 9.6,
+  "slug": "fareins",
+  "norm": "fareins",
+  "url_annuaire": "/mairie-fareins.html"
+ },
+ {
+  "commune": "Arnas",
+  "dept": "69",
+  "code_insee": "69013",
+  "population": 4601,
+  "distance_km": 10.4,
+  "slug": "arnas",
+  "norm": "arnas",
+  "url_annuaire": "/ville-arnas.html"
+ },
+ {
+  "commune": "Saint-Didier-sur-Chalaronne",
+  "dept": "01",
+  "code_insee": "01348",
+  "population": 2934,
+  "distance_km": 10.5,
+  "slug": "saint-didier-sur-chalaronne",
+  "norm": "saint didier sur chalaronne",
+  "url_annuaire": "/ville-saint-didier-sur-chalaronne.html"
+ },
+ {
+  "commune": "La Chapelle-de-Guinchay",
+  "dept": "71",
+  "code_insee": "71090",
+  "population": 4018,
+  "distance_km": 12.1,
+  "slug": "la-chapelle-de-guinchay",
+  "norm": "la chapelle de guinchay",
+  "url_annuaire": "/ville-la-chapelle-de-guinchay.html"
+ },
+ {
+  "commune": "Frans",
+  "dept": "01",
+  "code_insee": "01166",
+  "population": 2582,
+  "distance_km": 13.4,
+  "slug": "frans",
+  "norm": "frans",
+  "url_annuaire": "/mairie-frans.html"
+ },
+ {
+  "commune": "Gleizé",
+  "dept": "69",
+  "code_insee": "69092",
+  "population": 8035,
+  "distance_km": 13.9,
+  "slug": "gleize",
+  "norm": "gleizé",
+  "url_annuaire": "/ville-gleize.html"
+ },
+ {
+  "commune": "Villefranche-sur-Saône",
+  "dept": "69",
+  "code_insee": "69264",
+  "population": 36172,
+  "distance_km": 14.0,
+  "slug": "villefranche-sur-saone",
+  "norm": "villefranche sur saône",
+  "url_annuaire": "/ville-villefranche-sur-saone.html"
+ },
+ {
+  "commune": "Beaujeu",
+  "dept": "69",
+  "code_insee": "69018",
+  "population": 2082,
+  "distance_km": 14.1,
+  "slug": "beaujeu",
+  "norm": "beaujeu",
+  "url_annuaire": "/ville-beaujeu-69.html"
+ },
+ {
+  "commune": "Jassans-Riottier",
+  "dept": "01",
+  "code_insee": "01194",
+  "population": 6247,
+  "distance_km": 14.7,
+  "slug": "jassans-riottier",
+  "norm": "jassans riottier",
+  "url_annuaire": "/ville-jassans-riottier.html"
+ },
+ {
+  "commune": "Crêches-sur-Saône",
+  "dept": "71",
+  "code_insee": "71150",
+  "population": 3198,
+  "distance_km": 14.9,
+  "slug": "creches-sur-saone",
+  "norm": "crêches sur saône",
+  "url_annuaire": "/ville-creches-sur-saone.html"
+ },
+ {
+  "commune": "Limas",
+  "dept": "69",
+  "code_insee": "69115",
+  "population": 4750,
+  "distance_km": 15.4,
+  "slug": "limas",
+  "norm": "limas",
+  "url_annuaire": "/ville-limas.html"
+ },
+ {
+  "commune": "Misérieux",
+  "dept": "01",
+  "code_insee": "01250",
+  "population": 2008,
+  "distance_km": 15.8,
+  "slug": "miserieux",
+  "norm": "misérieux",
+  "url_annuaire": "/mairie-miserieux.html"
+ },
+ {
+  "commune": "Châtillon-sur-Chalaronne",
+  "dept": "01",
+  "code_insee": "01093",
+  "population": 5250,
+  "distance_km": 16.0,
+  "slug": "chatillon-sur-chalaronne",
+  "norm": "châtillon sur chalaronne",
+  "url_annuaire": "/ville-chatillon-sur-chalaronne.html"
+ },
+ {
+  "commune": "Saint-Didier-de-Formans",
+  "dept": "01",
+  "code_insee": "01347",
+  "population": 2203,
+  "distance_km": 16.8,
+  "slug": "saint-didier-de-formans",
+  "norm": "saint didier de formans",
+  "url_annuaire": "/mairie-saint-didier-de-formans.html"
+ },
+ {
+  "commune": "Pommiers",
+  "dept": "69",
+  "code_insee": "69156",
+  "population": 2618,
+  "distance_km": 17.3,
+  "slug": "pommiers",
+  "norm": "pommiers",
+  "url_annuaire": "/ville-pommiers-69.html"
+ },
+ {
+  "commune": "Porte des Pierres Dorées",
+  "dept": "69",
+  "code_insee": "69114",
+  "population": 4185,
+  "distance_km": 17.9,
+  "slug": "porte-des-pierres-dorees",
+  "norm": "porte des pierres dorées",
+  "url_annuaire": "/ville-porte-des-pierres-dorees.html"
+ },
+ {
+  "commune": "Anse",
+  "dept": "69",
+  "code_insee": "69009",
+  "population": 8206,
+  "distance_km": 18.5,
+  "slug": "anse",
+  "norm": "anse",
+  "url_annuaire": "/ville-anse.html"
+ },
+ {
+  "commune": "Trévoux",
+  "dept": "01",
+  "code_insee": "01427",
+  "population": 7013,
+  "distance_km": 18.9,
+  "slug": "trevoux",
+  "norm": "trévoux",
+  "url_annuaire": "/ville-trevoux.html"
+ },
+ {
+  "commune": "Reyrieux",
+  "dept": "01",
+  "code_insee": "01322",
+  "population": 5358,
+  "distance_km": 20.2,
+  "slug": "reyrieux",
+  "norm": "reyrieux",
+  "url_annuaire": "/ville-reyrieux.html"
+ },
+ {
+  "commune": "Quincieux",
+  "dept": "69",
+  "code_insee": "69163",
+  "population": 3679,
+  "distance_km": 21.4,
+  "slug": "quincieux",
+  "norm": "quincieux",
+  "url_annuaire": "/ville-quincieux.html"
+ },
+ {
+  "commune": "Lucenay",
+  "dept": "69",
+  "code_insee": "69122",
+  "population": 2070,
+  "distance_km": 21.9,
+  "slug": "lucenay",
+  "norm": "lucenay",
+  "url_annuaire": "/mairie-lucenay.html"
+ },
+ {
+  "commune": "Charnay-lès-Mâcon",
+  "dept": "71",
+  "code_insee": "71105",
+  "population": 8227,
+  "distance_km": 22.1,
+  "slug": "charnay-les-macon",
+  "norm": "charnay lès mâcon",
+  "url_annuaire": "/ville-charnay-les-macon.html"
+ },
+ {
+  "commune": "Vonnas",
+  "dept": "01",
+  "code_insee": "01457",
+  "population": 3255,
+  "distance_km": 22.2,
+  "slug": "vonnas",
+  "norm": "vonnas",
+  "url_annuaire": "/ville-vonnas.html"
+ },
+ {
+  "commune": "Massieux",
+  "dept": "01",
+  "code_insee": "01238",
+  "population": 2843,
+  "distance_km": 22.9,
+  "slug": "massieux",
+  "norm": "massieux",
+  "url_annuaire": "/ville-massieux.html"
+ },
+ {
+  "commune": "Val d'Oingt",
+  "dept": "69",
+  "code_insee": "69024",
+  "population": 4117,
+  "distance_km": 23.6,
+  "slug": "val-d-oingt",
+  "norm": "val d oingt",
+  "url_annuaire": "/ville-val-d-oingt.html"
+ },
+ {
+  "commune": "Civrieux",
+  "dept": "01",
+  "code_insee": "01105",
+  "population": 2016,
+  "distance_km": 23.6,
+  "slug": "civrieux",
+  "norm": "civrieux",
+  "url_annuaire": "/mairie-civrieux.html"
+ },
+ {
+  "commune": "Morancé",
+  "dept": "69",
+  "code_insee": "69140",
+  "population": 2261,
+  "distance_km": 24.2,
+  "slug": "morance",
+  "norm": "morancé",
+  "url_annuaire": "/ville-morance.html"
+ },
+ {
+  "commune": "Replonges",
+  "dept": "01",
+  "code_insee": "01320",
+  "population": 3956,
+  "distance_km": 24.2,
+  "slug": "replonges",
+  "norm": "replonges",
+  "url_annuaire": "/ville-replonges.html"
+ },
+ {
+  "commune": "Genay",
+  "dept": "69",
+  "code_insee": "69278",
+  "population": 5585,
+  "distance_km": 24.4,
+  "slug": "genay",
+  "norm": "genay",
+  "url_annuaire": "/ville-genay-69.html"
+ },
+ {
+  "commune": "Mâcon",
+  "dept": "71",
+  "code_insee": "71270",
+  "population": 35177,
+  "distance_km": 24.6,
+  "slug": "macon",
+  "norm": "mâcon",
+  "url_annuaire": "/ville-macon.html"
+ },
+ {
+  "commune": "Saint-Germain-au-Mont-d'Or",
+  "dept": "69",
+  "code_insee": "69207",
+  "population": 3124,
+  "distance_km": 25.3,
+  "slug": "saint-germain-au-mont-d-or",
+  "norm": "saint germain au mont d or",
+  "url_annuaire": "/ville-saint-germain-au-mont-d-or.html"
+ },
+ {
+  "commune": "Saint-André-de-Corcy",
+  "dept": "01",
+  "code_insee": "01333",
+  "population": 3370,
+  "distance_km": 25.5,
+  "slug": "saint-andre-de-corcy",
+  "norm": "saint andré de corcy",
+  "url_annuaire": "/ville-saint-andre-de-corcy.html"
+ },
+ {
+  "commune": "Villars-les-Dombes",
+  "dept": "01",
+  "code_insee": "01443",
+  "population": 5163,
+  "distance_km": 25.8,
+  "slug": "villars-les-dombes",
+  "norm": "villars les dombes",
+  "url_annuaire": "/ville-villars-les-dombes.html"
+ },
+ {
+  "commune": "Chasselay",
+  "dept": "69",
+  "code_insee": "69049",
+  "population": 2973,
+  "distance_km": 26.2,
+  "slug": "chasselay",
+  "norm": "chasselay",
+  "url_annuaire": "/ville-chasselay-69.html"
+ },
+ {
+  "commune": "Chessy",
+  "dept": "69",
+  "code_insee": "69056",
+  "population": 2055,
+  "distance_km": 26.2,
+  "slug": "chessy",
+  "norm": "chessy",
+  "url_annuaire": "/mairie-chessy-69.html"
+ },
+ {
+  "commune": "Neuville-sur-Saône",
+  "dept": "69",
+  "code_insee": "69143",
+  "population": 7812,
+  "distance_km": 26.2,
+  "slug": "neuville-sur-saone",
+  "norm": "neuville sur saône",
+  "url_annuaire": "/ville-neuville-sur-saone.html"
+ },
+ {
+  "commune": "Chazay-d'Azergues",
+  "dept": "69",
+  "code_insee": "69052",
+  "population": 4410,
+  "distance_km": 26.3,
+  "slug": "chazay-d-azergues",
+  "norm": "chazay d azergues",
+  "url_annuaire": "/ville-chazay-d-azergues.html"
+ },
+ {
+  "commune": "Sancé",
+  "dept": "71",
+  "code_insee": "71497",
+  "population": 2151,
+  "distance_km": 26.5,
+  "slug": "sance",
+  "norm": "sancé",
+  "url_annuaire": "/mairie-sance.html"
+ },
+ {
+  "commune": "Montanay",
+  "dept": "69",
+  "code_insee": "69284",
+  "population": 3308,
+  "distance_km": 27.1,
+  "slug": "montanay",
+  "norm": "montanay",
+  "url_annuaire": "/ville-montanay.html"
+ },
+ {
+  "commune": "Mézériat",
+  "dept": "01",
+  "code_insee": "01246",
+  "population": 2172,
+  "distance_km": 27.4,
+  "slug": "mezeriat",
+  "norm": "mézériat",
+  "url_annuaire": "/ville-mezeriat.html"
+ },
+ {
+  "commune": "Mionnay",
+  "dept": "01",
+  "code_insee": "01248",
+  "population": 2294,
+  "distance_km": 27.4,
+  "slug": "mionnay",
+  "norm": "mionnay",
+  "url_annuaire": "/ville-mionnay.html"
+ },
+ {
+  "commune": "Châtillon",
+  "dept": "69",
+  "code_insee": "69050",
+  "population": 2252,
+  "distance_km": 27.5,
+  "slug": "chatillon",
+  "norm": "châtillon",
+  "url_annuaire": "/ville-chatillon-69.html"
+ },
+ {
+  "commune": "Albigny-sur-Saône",
+  "dept": "69",
+  "code_insee": "69003",
+  "population": 3057,
+  "distance_km": 27.6,
+  "slug": "albigny-sur-saone",
+  "norm": "albigny sur saône",
+  "url_annuaire": "/ville-albigny-sur-saone.html"
+ },
+ {
+  "commune": "Feillens",
+  "dept": "01",
+  "code_insee": "01159",
+  "population": 3411,
+  "distance_km": 27.7,
+  "slug": "feillens",
+  "norm": "feillens",
+  "url_annuaire": "/ville-feillens.html"
+ },
+ {
+  "commune": "Lissieu",
+  "dept": "69",
+  "code_insee": "69117",
+  "population": 3181,
+  "distance_km": 27.9,
+  "slug": "lissieu",
+  "norm": "lissieu",
+  "url_annuaire": "/ville-lissieu.html"
+ },
+ {
+  "commune": "Lozanne",
+  "dept": "69",
+  "code_insee": "69121",
+  "population": 3182,
+  "distance_km": 28.9,
+  "slug": "lozanne",
+  "norm": "lozanne",
+  "url_annuaire": "/ville-lozanne.html"
+ },
+ {
+  "commune": "Saint-Germain-Nuelles",
+  "dept": "69",
+  "code_insee": "69208",
+  "population": 2246,
+  "distance_km": 29.5,
+  "slug": "saint-germain-nuelles",
+  "norm": "saint germain nuelles",
+  "url_annuaire": "/mairie-saint-germain-sur-l-arbresle.html"
+ },
+ {
+  "commune": "Cailloux-sur-Fontaines",
+  "dept": "69",
+  "code_insee": "69033",
+  "population": 2989,
+  "distance_km": 29.6,
+  "slug": "cailloux-sur-fontaines",
+  "norm": "cailloux sur fontaines",
+  "url_annuaire": "/ville-cailloux-sur-fontaines.html"
+ },
+ {
+  "commune": "Couzon-au-Mont-d'Or",
+  "dept": "69",
+  "code_insee": "69068",
+  "population": 2619,
+  "distance_km": 29.6,
+  "slug": "couzon-au-mont-d-or",
+  "norm": "couzon au mont d or",
+  "url_annuaire": "/ville-couzon-au-mont-d-or.html"
+ },
+ {
+  "commune": "Bâgé-Dommartin",
+  "dept": "01",
+  "code_insee": "01025",
+  "population": 4050,
+  "distance_km": 29.7,
+  "slug": "bage-dommartin",
+  "norm": "bâgé dommartin",
+  "url_annuaire": "/ville-bage-dommartin.html"
+ },
+ {
+  "commune": "Dommartin",
+  "dept": "69",
+  "code_insee": "69076",
+  "population": 2687,
+  "distance_km": 30.3,
+  "slug": "dommartin",
+  "norm": "dommartin",
+  "url_annuaire": "/ville-dommartin-69.html"
+ },
+ {
+  "commune": "Fontaines-Saint-Martin",
+  "dept": "69",
+  "code_insee": "69087",
+  "population": 3098,
+  "distance_km": 30.5,
+  "slug": "fontaines-saint-martin",
+  "norm": "fontaines saint martin",
+  "url_annuaire": "/ville-fontaines-saint-martin.html"
+ },
+ {
+  "commune": "Bully",
+  "dept": "69",
+  "code_insee": "69032",
+  "population": 2213,
+  "distance_km": 30.7,
+  "slug": "bully",
+  "norm": "bully",
+  "url_annuaire": "/ville-bully-69.html"
+ },
+ {
+  "commune": "Fleurieux-sur-l'Arbresle",
+  "dept": "69",
+  "code_insee": "69086",
+  "population": 2361,
+  "distance_km": 30.8,
+  "slug": "fleurieux-sur-l-arbresle",
+  "norm": "fleurieux sur l arbresle",
+  "url_annuaire": "/ville-fleurieux-sur-l-arbresle.html"
+ },
+ {
+  "commune": "Manziat",
+  "dept": "01",
+  "code_insee": "01231",
+  "population": 2018,
+  "distance_km": 30.8,
+  "slug": "manziat",
+  "norm": "manziat",
+  "url_annuaire": "/mairie-manziat.html"
+ },
+ {
+  "commune": "Cours",
+  "dept": "69",
+  "code_insee": "69066",
+  "population": 4306,
+  "distance_km": 31.2,
+  "slug": "cours",
+  "norm": "cours",
+  "url_annuaire": "/ville-cours.html"
+ },
+ {
+  "commune": "Limonest",
+  "dept": "69",
+  "code_insee": "69116",
+  "population": 4012,
+  "distance_km": 31.4,
+  "slug": "limonest",
+  "norm": "limonest",
+  "url_annuaire": "/ville-limonest.html"
+ },
+ {
+  "commune": "Vindry-sur-Turdine",
+  "dept": "69",
+  "code_insee": "69157",
+  "population": 5305,
+  "distance_km": 31.4,
+  "slug": "vindry-sur-turdine",
+  "norm": "vindry sur turdine",
+  "url_annuaire": "/ville-vindry-sur-turdine.html"
+ },
+ {
+  "commune": "Sathonay-Village",
+  "dept": "69",
+  "code_insee": "69293",
+  "population": 2412,
+  "distance_km": 31.8,
+  "slug": "sathonay-village",
+  "norm": "sathonay village",
+  "url_annuaire": "/mairie-sathonay-village.html"
+ },
+ {
+  "commune": "L'Arbresle",
+  "dept": "69",
+  "code_insee": "69010",
+  "population": 6537,
+  "distance_km": 32.3,
+  "slug": "l-arbresle",
+  "norm": "l arbresle",
+  "url_annuaire": "/ville-l-arbresle.html"
+ },
+ {
+  "commune": "Montluel",
+  "dept": "01",
+  "code_insee": "01262",
+  "population": 6895,
+  "distance_km": 32.3,
+  "slug": "montluel",
+  "norm": "montluel",
+  "url_annuaire": "/ville-montluel.html"
+ },
+ {
+  "commune": "Fontaines-sur-Saône",
+  "dept": "69",
+  "code_insee": "69088",
+  "population": 6957,
+  "distance_km": 32.4,
+  "slug": "fontaines-sur-saone",
+  "norm": "fontaines sur saône",
+  "url_annuaire": "/ville-fontaines-sur-saone.html"
+ },
+ {
+  "commune": "Saint-Cyr-au-Mont-d'Or",
+  "dept": "69",
+  "code_insee": "69191",
+  "population": 6327,
+  "distance_km": 32.4,
+  "slug": "saint-cyr-au-mont-d-or",
+  "norm": "saint cyr au mont d or",
+  "url_annuaire": "/ville-saint-cyr-au-mont-d-or.html"
+ },
+ {
+  "commune": "Saint-Didier-au-Mont-d'Or",
+  "dept": "69",
+  "code_insee": "69194",
+  "population": 7435,
+  "distance_km": 32.8,
+  "slug": "saint-didier-au-mont-d-or",
+  "norm": "saint didier au mont d or",
+  "url_annuaire": "/ville-saint-didier-au-mont-d-or.html"
+ },
+ {
+  "commune": "Dardilly",
+  "dept": "69",
+  "code_insee": "69072",
+  "population": 9221,
+  "distance_km": 32.9,
+  "slug": "dardilly",
+  "norm": "dardilly",
+  "url_annuaire": "/ville-dardilly.html"
+ },
+ {
+  "commune": "Miribel",
+  "dept": "01",
+  "code_insee": "01249",
+  "population": 10395,
+  "distance_km": 32.9,
+  "slug": "miribel",
+  "norm": "miribel",
+  "url_annuaire": "/ville-miribel-01.html"
+ },
+ {
+  "commune": "Collonges-au-Mont-d'Or",
+  "dept": "69",
+  "code_insee": "69063",
+  "population": 4669,
+  "distance_km": 33.1,
+  "slug": "collonges-au-mont-d-or",
+  "norm": "collonges au mont d or",
+  "url_annuaire": "/ville-collonges-au-mont-d-or.html"
+ },
+ {
+  "commune": "Lentilly",
+  "dept": "69",
+  "code_insee": "69112",
+  "population": 6623,
+  "distance_km": 33.1,
+  "slug": "lentilly",
+  "norm": "lentilly",
+  "url_annuaire": "/ville-lentilly.html"
+ },
+ {
+  "commune": "Sathonay-Camp",
+  "dept": "69",
+  "code_insee": "69292",
+  "population": 7019,
+  "distance_km": 33.1,
+  "slug": "sathonay-camp",
+  "norm": "sathonay camp",
+  "url_annuaire": "/ville-sathonay-camp.html"
+ },
+ {
+  "commune": "Chauffailles",
+  "dept": "71",
+  "code_insee": "71120",
+  "population": 3638,
+  "distance_km": 33.1,
+  "slug": "chauffailles",
+  "norm": "chauffailles",
+  "url_annuaire": "/ville-chauffailles.html"
+ },
+ {
+  "commune": "Tarare",
+  "dept": "69",
+  "code_insee": "69243",
+  "population": 10893,
+  "distance_km": 33.3,
+  "slug": "tarare",
+  "norm": "tarare",
+  "url_annuaire": "/ville-tarare.html"
+ },
+ {
+  "commune": "Rillieux-la-Pape",
+  "dept": "69",
+  "code_insee": "69286",
+  "population": 31389,
+  "distance_km": 33.4,
+  "slug": "rillieux-la-pape",
+  "norm": "rillieux la pape",
+  "url_annuaire": "/ville-rillieux-la-pape.html"
+ },
+ {
+  "commune": "La Tour-de-Salvagny",
+  "dept": "69",
+  "code_insee": "69250",
+  "population": 4649,
+  "distance_km": 33.5,
+  "slug": "la-tour-de-salvagny",
+  "norm": "la tour de salvagny",
+  "url_annuaire": "/ville-la-tour-de-salvagny.html"
+ },
+ {
+  "commune": "Polliat",
+  "dept": "01",
+  "code_insee": "01301",
+  "population": 2741,
+  "distance_km": 33.7,
+  "slug": "polliat",
+  "norm": "polliat",
+  "url_annuaire": "/ville-polliat.html"
+ },
+ {
+  "commune": "Champagne-au-Mont-d'Or",
+  "dept": "69",
+  "code_insee": "69040",
+  "population": 6311,
+  "distance_km": 34.4,
+  "slug": "champagne-au-mont-d-or",
+  "norm": "champagne au mont d or",
+  "url_annuaire": "/ville-champagne-au-mont-d-or.html"
+ },
+ {
+  "commune": "Thizy-les-Bourgs",
+  "dept": "69",
+  "code_insee": "69248",
+  "population": 5771,
+  "distance_km": 34.4,
+  "slug": "thizy-les-bourgs",
+  "norm": "thizy les bourgs",
+  "url_annuaire": "/ville-thizy-69.html"
+ },
+ {
+  "commune": "Chalamont",
+  "dept": "01",
+  "code_insee": "01074",
+  "population": 2533,
+  "distance_km": 34.4,
+  "slug": "chalamont",
+  "norm": "chalamont",
+  "url_annuaire": "/ville-chalamont.html"
+ },
+ {
+  "commune": "Sain-Bel",
+  "dept": "69",
+  "code_insee": "69171",
+  "population": 2566,
+  "distance_km": 35.0,
+  "slug": "sain-bel",
+  "norm": "sain bel",
+  "url_annuaire": "/ville-sain-bel.html"
+ },
+ {
+  "commune": "Neyron",
+  "dept": "01",
+  "code_insee": "01275",
+  "population": 2421,
+  "distance_km": 35.2,
+  "slug": "neyron",
+  "norm": "neyron",
+  "url_annuaire": "/ville-neyron.html"
+ },
+ {
+  "commune": "Saint-Denis-lès-Bourg",
+  "dept": "01",
+  "code_insee": "01344",
+  "population": 6160,
+  "distance_km": 35.2,
+  "slug": "saint-denis-les-bourg",
+  "norm": "saint denis lès bourg",
+  "url_annuaire": "/ville-saint-denis-les-bourg.html"
+ },
+ {
+  "commune": "Caluire-et-Cuire",
+  "dept": "69",
+  "code_insee": "69034",
+  "population": 43597,
+  "distance_km": 35.4,
+  "slug": "caluire-et-cuire",
+  "norm": "caluire et cuire",
+  "url_annuaire": "/ville-caluire-et-cuire.html"
+ },
+ {
+  "commune": "Saint-Maurice-de-Beynost",
+  "dept": "01",
+  "code_insee": "01376",
+  "population": 4332,
+  "distance_km": 35.4,
+  "slug": "saint-maurice-de-beynost",
+  "norm": "saint maurice de beynost",
+  "url_annuaire": "/ville-saint-maurice-de-beynost.html"
+ },
+ {
+  "commune": "Sourcieux-les-Mines",
+  "dept": "69",
+  "code_insee": "69177",
+  "population": 2100,
+  "distance_km": 35.8,
+  "slug": "sourcieux-les-mines",
+  "norm": "sourcieux les mines",
+  "url_annuaire": "/mairie-sourcieux-les-mines.html"
+ },
+ {
+  "commune": "Beynost",
+  "dept": "01",
+  "code_insee": "01043",
+  "population": 5198,
+  "distance_km": 35.9,
+  "slug": "beynost",
+  "norm": "beynost",
+  "url_annuaire": "/ville-beynost.html"
+ },
+ {
+  "commune": "La Boisse",
+  "dept": "01",
+  "code_insee": "01049",
+  "population": 3449,
+  "distance_km": 36.0,
+  "slug": "la-boisse",
+  "norm": "la boisse",
+  "url_annuaire": "/ville-la-boisse.html"
+ },
+ {
+  "commune": "Marcy-l'Étoile",
+  "dept": "69",
+  "code_insee": "69127",
+  "population": 3778,
+  "distance_km": 36.1,
+  "slug": "marcy-l-etoile",
+  "norm": "marcy l étoile",
+  "url_annuaire": "/ville-marcy-l-etoile.html"
+ },
+ {
+  "commune": "Cluny",
+  "dept": "71",
+  "code_insee": "71137",
+  "population": 4942,
+  "distance_km": 36.1,
+  "slug": "cluny",
+  "norm": "cluny",
+  "url_annuaire": "/ville-cluny.html"
+ },
+ {
+  "commune": "Écully",
+  "dept": "69",
+  "code_insee": "69081",
+  "population": 17944,
+  "distance_km": 36.4,
+  "slug": "ecully",
+  "norm": "écully",
+  "url_annuaire": "/ville-ecully.html"
+ },
+ {
+  "commune": "Charbonnières-les-Bains",
+  "dept": "69",
+  "code_insee": "69044",
+  "population": 5383,
+  "distance_km": 36.7,
+  "slug": "charbonnieres-les-bains",
+  "norm": "charbonnières les bains",
+  "url_annuaire": "/ville-charbonnieres-les-bains.html"
+ },
+ {
+  "commune": "Amplepuis",
+  "dept": "69",
+  "code_insee": "69006",
+  "population": 4876,
+  "distance_km": 36.9,
+  "slug": "amplepuis",
+  "norm": "amplepuis",
+  "url_annuaire": "/ville-amplepuis.html"
+ },
+ {
+  "commune": "Montrevel-en-Bresse",
+  "dept": "01",
+  "code_insee": "01266",
+  "population": 2743,
+  "distance_km": 36.9,
+  "slug": "montrevel-en-bresse",
+  "norm": "montrevel en bresse",
+  "url_annuaire": "/ville-montrevel-en-bresse.html"
+ },
+ {
+  "commune": "Péronnas",
+  "dept": "01",
+  "code_insee": "01289",
+  "population": 6444,
+  "distance_km": 36.9,
+  "slug": "peronnas",
+  "norm": "péronnas",
+  "url_annuaire": "/ville-peronnas.html"
+ },
+ {
+  "commune": "Sainte-Consorce",
+  "dept": "69",
+  "code_insee": "69190",
+  "population": 2154,
+  "distance_km": 37.2,
+  "slug": "sainte-consorce",
+  "norm": "sainte consorce",
+  "url_annuaire": "/mairie-sainte-consorce.html"
+ },
+ {
+  "commune": "Saint-Pierre-la-Palud",
+  "dept": "69",
+  "code_insee": "69231",
+  "population": 2616,
+  "distance_km": 37.6,
+  "slug": "saint-pierre-la-palud",
+  "norm": "saint pierre la palud",
+  "url_annuaire": "/ville-saint-pierre-la-palud.html"
+ },
+ {
+  "commune": "Dagneux",
+  "dept": "01",
+  "code_insee": "01142",
+  "population": 4778,
+  "distance_km": 37.9,
+  "slug": "dagneux",
+  "norm": "dagneux",
+  "url_annuaire": "/ville-dagneux.html"
+ },
+ {
+  "commune": "Pollionnay",
+  "dept": "69",
+  "code_insee": "69154",
+  "population": 2958,
+  "distance_km": 38.3,
+  "slug": "pollionnay",
+  "norm": "pollionnay",
+  "url_annuaire": "/mairie-pollionnay.html"
+ },
+ {
+  "commune": "Tassin-la-Demi-Lune",
+  "dept": "69",
+  "code_insee": "69244",
+  "population": 23200,
+  "distance_km": 38.4,
+  "slug": "tassin-la-demi-lune",
+  "norm": "tassin la demi lune",
+  "url_annuaire": "/ville-tassin-la-demi-lune.html"
+ },
+ {
+  "commune": "Saint-Genis-les-Ollières",
+  "dept": "69",
+  "code_insee": "69205",
+  "population": 5439,
+  "distance_km": 38.7,
+  "slug": "saint-genis-les-ollieres",
+  "norm": "saint genis les ollières",
+  "url_annuaire": "/ville-saint-genis-les-ollieres.html"
+ },
+ {
+  "commune": "Attignat",
+  "dept": "01",
+  "code_insee": "01024",
+  "population": 3409,
+  "distance_km": 38.7,
+  "slug": "attignat",
+  "norm": "attignat",
+  "url_annuaire": "/ville-attignat.html"
+ },
+ {
+  "commune": "Villeurbanne",
+  "dept": "69",
+  "code_insee": "69266",
+  "population": 163684,
+  "distance_km": 39.0,
+  "slug": "villeurbanne",
+  "norm": "villeurbanne",
+  "url_annuaire": "/ville-villeurbanne.html"
+ },
+ {
+  "commune": "Vaulx-en-Velin",
+  "dept": "69",
+  "code_insee": "69256",
+  "population": 53069,
+  "distance_km": 39.3,
+  "slug": "vaulx-en-velin",
+  "norm": "vaulx en velin",
+  "url_annuaire": "/ville-vaulx-en-velin.html"
+ },
+ {
+  "commune": "Pont-de-Vaux",
+  "dept": "01",
+  "code_insee": "01305",
+  "population": 2204,
+  "distance_km": 39.4,
+  "slug": "pont-de-vaux",
+  "norm": "pont de vaux",
+  "url_annuaire": "/ville-pont-de-vaux.html"
+ },
+ {
+  "commune": "Lyon",
+  "dept": "69",
+  "code_insee": "69123",
+  "population": 519127,
+  "distance_km": 39.6,
+  "slug": "lyon",
+  "norm": "lyon",
+  "url_annuaire": "/ville-lyon.html"
+ },
+ {
+  "commune": "Bourg-en-Bresse",
+  "dept": "01",
+  "code_insee": "01053",
+  "population": 42372,
+  "distance_km": 39.8,
+  "slug": "bourg-en-bresse",
+  "norm": "bourg en bresse",
+  "url_annuaire": "/ville-bourg-en-bresse.html"
+ },
+ {
+  "commune": "Viriat",
+  "dept": "01",
+  "code_insee": "01451",
+  "population": 7102,
+  "distance_km": 40.0,
+  "slug": "viriat",
+  "norm": "viriat",
+  "url_annuaire": "/ville-viriat.html"
+ },
+ {
+  "commune": "Craponne",
+  "dept": "69",
+  "code_insee": "69069",
+  "population": 12084,
+  "distance_km": 40.4,
+  "slug": "craponne",
+  "norm": "craponne",
+  "url_annuaire": "/ville-craponne.html"
+ },
+ {
+  "commune": "Décines-Charpieu",
+  "dept": "69",
+  "code_insee": "69275",
+  "population": 29877,
+  "distance_km": 40.4,
+  "slug": "decines-charpieu",
+  "norm": "décines charpieu",
+  "url_annuaire": "/ville-decines-charpieu.html"
+ },
+ {
+  "commune": "Bessenay",
+  "dept": "69",
+  "code_insee": "69021",
+  "population": 2331,
+  "distance_km": 40.6,
+  "slug": "bessenay",
+  "norm": "bessenay",
+  "url_annuaire": "/ville-bessenay.html"
+ },
+ {
+  "commune": "Grézieu-la-Varenne",
+  "dept": "69",
+  "code_insee": "69094",
+  "population": 6472,
+  "distance_km": 40.6,
+  "slug": "grezieu-la-varenne",
+  "norm": "grézieu la varenne",
+  "url_annuaire": "/ville-grezieu-la-varenne.html"
+ },
+ {
+  "commune": "Béligneux",
+  "dept": "01",
+  "code_insee": "01032",
+  "population": 3535,
+  "distance_km": 40.9,
+  "slug": "beligneux",
+  "norm": "béligneux",
+  "url_annuaire": "/ville-beligneux.html"
+ },
+ {
+  "commune": "Francheville",
+  "dept": "69",
+  "code_insee": "69089",
+  "population": 15604,
+  "distance_km": 41.2,
+  "slug": "francheville",
+  "norm": "francheville",
+  "url_annuaire": "/ville-francheville-69.html"
+ },
+ {
+  "commune": "Bresse Vallons",
+  "dept": "01",
+  "code_insee": "01130",
+  "population": 2388,
+  "distance_km": 41.2,
+  "slug": "bresse-vallons",
+  "norm": "bresse vallons",
+  "url_annuaire": "/ville-bresse-vallons.html"
+ },
+ {
+  "commune": "Montagnat",
+  "dept": "01",
+  "code_insee": "01254",
+  "population": 2186,
+  "distance_km": 41.3,
+  "slug": "montagnat",
+  "norm": "montagnat",
+  "url_annuaire": "/mairie-montagnat.html"
+ },
+ {
+  "commune": "Sainte-Foy-lès-Lyon",
+  "dept": "69",
+  "code_insee": "69202",
+  "population": 21692,
+  "distance_km": 41.6,
+  "slug": "sainte-foy-les-lyon",
+  "norm": "sainte foy lès lyon",
+  "url_annuaire": "/ville-sainte-foy-les-lyon.html"
+ },
+ {
+  "commune": "Balan",
+  "dept": "01",
+  "code_insee": "01027",
+  "population": 3077,
+  "distance_km": 41.9,
+  "slug": "balan",
+  "norm": "balan",
+  "url_annuaire": "/ville-balan-01.html"
+ },
+ {
+  "commune": "La Mulatière",
+  "dept": "69",
+  "code_insee": "69142",
+  "population": 6534,
+  "distance_km": 42.0,
+  "slug": "la-mulatiere",
+  "norm": "la mulatière",
+  "url_annuaire": "/ville-la-mulatiere.html"
+ },
+ {
+  "commune": "Jonage",
+  "dept": "69",
+  "code_insee": "69279",
+  "population": 6144,
+  "distance_km": 42.0,
+  "slug": "jonage",
+  "norm": "jonage",
+  "url_annuaire": "/ville-jonage.html"
+ },
+ {
+  "commune": "Meyzieu",
+  "dept": "69",
+  "code_insee": "69282",
+  "population": 36687,
+  "distance_km": 42.0,
+  "slug": "meyzieu",
+  "norm": "meyzieu",
+  "url_annuaire": "/ville-meyzieu.html"
+ },
+ {
+  "commune": "Villieu-Loyes-Mollon",
+  "dept": "01",
+  "code_insee": "01450",
+  "population": 3849,
+  "distance_km": 42.0,
+  "slug": "villieu-loyes-mollon",
+  "norm": "villieu loyes mollon",
+  "url_annuaire": "/ville-villieu-loyes-mollon.html"
+ },
+ {
+  "commune": "Meximieux",
+  "dept": "01",
+  "code_insee": "01244",
+  "population": 8247,
+  "distance_km": 42.3,
+  "slug": "meximieux",
+  "norm": "meximieux",
+  "url_annuaire": "/ville-meximieux.html"
+ },
+ {
+  "commune": "Vaugneray",
+  "dept": "69",
+  "code_insee": "69255",
+  "population": 6304,
+  "distance_km": 42.8,
+  "slug": "vaugneray",
+  "norm": "vaugneray",
+  "url_annuaire": "/ville-vaugneray.html"
+ },
+ {
+  "commune": "Bron",
+  "dept": "69",
+  "code_insee": "69029",
+  "population": 42982,
+  "distance_km": 43.4,
+  "slug": "bron",
+  "norm": "bron",
+  "url_annuaire": "/ville-bron.html"
+ },
+ {
+  "commune": "Brindas",
+  "dept": "69",
+  "code_insee": "69028",
+  "population": 6775,
+  "distance_km": 43.6,
+  "slug": "brindas",
+  "norm": "brindas",
+  "url_annuaire": "/ville-brindas.html"
+ },
+ {
+  "commune": "Chaponost",
+  "dept": "69",
+  "code_insee": "69043",
+  "population": 9382,
+  "distance_km": 44.5,
+  "slug": "chaponost",
+  "norm": "chaponost",
+  "url_annuaire": "/ville-chaponost.html"
+ },
+ {
+  "commune": "Chassieu",
+  "dept": "69",
+  "code_insee": "69271",
+  "population": 11208,
+  "distance_km": 44.6,
+  "slug": "chassieu",
+  "norm": "chassieu",
+  "url_annuaire": "/ville-chassieu.html"
+ },
+ {
+  "commune": "Ceyzériat",
+  "dept": "01",
+  "code_insee": "01072",
+  "population": 3328,
+  "distance_km": 44.7,
+  "slug": "ceyzeriat",
+  "norm": "ceyzériat",
+  "url_annuaire": "/ville-ceyzeriat.html"
+ },
+ {
+  "commune": "Oullins-Pierre-Bénite",
+  "dept": "69",
+  "code_insee": "69149",
+  "population": 38168,
+  "distance_km": 44.8,
+  "slug": "oullins-pierre-benite",
+  "norm": "oullins pierre bénite",
+  "url_annuaire": "/ville-oullins-pierre-benite.html"
+ },
+ {
+  "commune": "Saint-Étienne-du-Bois",
+  "dept": "01",
+  "code_insee": "01350",
+  "population": 2584,
+  "distance_km": 44.8,
+  "slug": "saint-etienne-du-bois",
+  "norm": "saint étienne du bois",
+  "url_annuaire": "/ville-saint-etienne-du-bois-01.html"
+ },
+ {
+  "commune": "Saint-Martin-du-Mont",
+  "dept": "01",
+  "code_insee": "01374",
+  "population": 2023,
+  "distance_km": 44.8,
+  "slug": "saint-martin-du-mont",
+  "norm": "saint martin du mont",
+  "url_annuaire": "/mairie-saint-martin-du-mont-71.html"
+ },
+ {
+  "commune": "Charlieu",
+  "dept": "42",
+  "code_insee": "42052",
+  "population": 3766,
+  "distance_km": 44.9,
+  "slug": "charlieu",
+  "norm": "charlieu",
+  "url_annuaire": "/ville-charlieu.html"
+ },
+ {
+  "commune": "Foissiat",
+  "dept": "01",
+  "code_insee": "01163",
+  "population": 2034,
+  "distance_km": 45.0,
+  "slug": "foissiat",
+  "norm": "foissiat",
+  "url_annuaire": "/mairie-foissiat.html"
+ },
+ {
+  "commune": "Château-Gaillard",
+  "dept": "01",
+  "code_insee": "01089",
+  "population": 2443,
+  "distance_km": 45.8,
+  "slug": "chateau-gaillard",
+  "norm": "château gaillard",
+  "url_annuaire": "/mairie-chateau-gaillard.html"
+ },
+ {
+  "commune": "Saint-Maurice-de-Gourdans",
+  "dept": "01",
+  "code_insee": "01378",
+  "population": 2903,
+  "distance_km": 45.9,
+  "slug": "saint-maurice-de-gourdans",
+  "norm": "saint maurice de gourdans",
+  "url_annuaire": "/ville-saint-maurice-de-gourdans.html"
+ },
+ {
+  "commune": "Messimy",
+  "dept": "69",
+  "code_insee": "69131",
+  "population": 3546,
+  "distance_km": 46.1,
+  "slug": "messimy",
+  "norm": "messimy",
+  "url_annuaire": "/ville-messimy.html"
+ },
+ {
+  "commune": "Saint-Fons",
+  "dept": "69",
+  "code_insee": "69199",
+  "population": 19285,
+  "distance_km": 46.2,
+  "slug": "saint-fons",
+  "norm": "saint fons",
+  "url_annuaire": "/ville-saint-fons.html"
+ },
+ {
+  "commune": "Pusignan",
+  "dept": "69",
+  "code_insee": "69285",
+  "population": 4119,
+  "distance_km": 46.2,
+  "slug": "pusignan",
+  "norm": "pusignan",
+  "url_annuaire": "/ville-pusignan.html"
+ },
+ {
+  "commune": "Saint-Laurent-de-Chamousset",
+  "dept": "69",
+  "code_insee": "69220",
+  "population": 2017,
+  "distance_km": 46.4,
+  "slug": "saint-laurent-de-chamousset",
+  "norm": "saint laurent de chamousset",
+  "url_annuaire": "/mairie-saint-laurent-de-chamousset.html"
+ },
+ {
+  "commune": "Marboz",
+  "dept": "01",
+  "code_insee": "01232",
+  "population": 2264,
+  "distance_km": 46.4,
+  "slug": "marboz",
+  "norm": "marboz",
+  "url_annuaire": "/ville-marboz.html"
+ },
+ {
+  "commune": "Saint-Genis-Laval",
+  "dept": "69",
+  "code_insee": "69204",
+  "population": 21212,
+  "distance_km": 46.5,
+  "slug": "saint-genis-laval",
+  "norm": "saint genis laval",
+  "url_annuaire": "/ville-saint-genis-laval.html"
+ },
+ {
+  "commune": "Vénissieux",
+  "dept": "69",
+  "code_insee": "69259",
+  "population": 65502,
+  "distance_km": 46.5,
+  "slug": "venissieux",
+  "norm": "vénissieux",
+  "url_annuaire": "/ville-venissieux.html"
+ },
+ {
+  "commune": "Pont-d'Ain",
+  "dept": "01",
+  "code_insee": "01304",
+  "population": 2843,
+  "distance_km": 46.7,
+  "slug": "pont-d-ain",
+  "norm": "pont d ain",
+  "url_annuaire": "/ville-pont-d-ain.html"
+ },
+ {
+  "commune": "Genas",
+  "dept": "69",
+  "code_insee": "69277",
+  "population": 13421,
+  "distance_km": 47.1,
+  "slug": "genas",
+  "norm": "genas",
+  "url_annuaire": "/ville-genas.html"
+ },
+ {
+  "commune": "Panissières",
+  "dept": "42",
+  "code_insee": "42165",
+  "population": 2911,
+  "distance_km": 47.1,
+  "slug": "panissieres",
+  "norm": "panissières",
+  "url_annuaire": "/ville-panissieres.html"
+ },
+ {
+  "commune": "Perreux",
+  "dept": "42",
+  "code_insee": "42170",
+  "population": 2111,
+  "distance_km": 47.4,
+  "slug": "perreux",
+  "norm": "perreux",
+  "url_annuaire": "/ville-perreux-42.html"
+ },
+ {
+  "commune": "Pouilly-sous-Charlieu",
+  "dept": "42",
+  "code_insee": "42177",
+  "population": 2588,
+  "distance_km": 47.7,
+  "slug": "pouilly-sous-charlieu",
+  "norm": "pouilly sous charlieu",
+  "url_annuaire": "/ville-pouilly-sous-charlieu.html"
+ },
+ {
+  "commune": "Saint-Priest",
+  "dept": "69",
+  "code_insee": "69290",
+  "population": 49229,
+  "distance_km": 47.8,
+  "slug": "saint-priest",
+  "norm": "saint priest",
+  "url_annuaire": "/ville-saint-priest-69.html"
+ },
+ {
+  "commune": "Saint-Denis-en-Bugey",
+  "dept": "01",
+  "code_insee": "01345",
+  "population": 2246,
+  "distance_km": 47.9,
+  "slug": "saint-denis-en-bugey",
+  "norm": "saint denis en bugey",
+  "url_annuaire": "/ville-saint-denis-en-bugey.html"
+ },
+ {
+  "commune": "Brignais",
+  "dept": "69",
+  "code_insee": "69027",
+  "population": 12503,
+  "distance_km": 48.2,
+  "slug": "brignais",
+  "norm": "brignais",
+  "url_annuaire": "/ville-brignais.html"
+ },
+ {
+  "commune": "Soucieu-en-Jarrest",
+  "dept": "69",
+  "code_insee": "69176",
+  "population": 4660,
+  "distance_km": 48.2,
+  "slug": "soucieu-en-jarrest",
+  "norm": "soucieu en jarrest",
+  "url_annuaire": "/ville-soucieu-en-jarrest.html"
+ },
+ {
+  "commune": "Irigny",
+  "dept": "69",
+  "code_insee": "69100",
+  "population": 9034,
+  "distance_km": 48.5,
+  "slug": "irigny",
+  "norm": "irigny",
+  "url_annuaire": "/ville-irigny.html"
+ },
+ {
+  "commune": "Thurins",
+  "dept": "69",
+  "code_insee": "69249",
+  "population": 3404,
+  "distance_km": 48.5,
+  "slug": "thurins",
+  "norm": "thurins",
+  "url_annuaire": "/ville-thurins.html"
+ },
+ {
+  "commune": "Ambronay",
+  "dept": "01",
+  "code_insee": "01007",
+  "population": 2841,
+  "distance_km": 48.6,
+  "slug": "ambronay",
+  "norm": "ambronay",
+  "url_annuaire": "/ville-ambronay.html"
+ },
+ {
+  "commune": "Feyzin",
+  "dept": "69",
+  "code_insee": "69276",
+  "population": 10304,
+  "distance_km": 49.1,
+  "slug": "feyzin",
+  "norm": "feyzin",
+  "url_annuaire": "/ville-feyzin.html"
+ },
+ {
+  "commune": "Orliénas",
+  "dept": "69",
+  "code_insee": "69148",
+  "population": 2675,
+  "distance_km": 49.9,
+  "slug": "orlienas",
+  "norm": "orliénas",
+  "url_annuaire": "/ville-orlienas.html"
+ },
+ {
+  "commune": "Chavanoz",
+  "dept": "38",
+  "code_insee": "38097",
+  "population": 5126,
+  "distance_km": 49.9,
+  "slug": "chavanoz",
+  "norm": "chavanoz",
+  "url_annuaire": "/ville-chavanoz.html"
+ }
+]
