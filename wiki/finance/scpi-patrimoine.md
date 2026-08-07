@@ -97,6 +97,16 @@ de la SCPI sur le même capital.
     → Le crédit n'est pas le problème de trésorerie : le loyer du studio le paie
     déjà (520 € − 80 € charges vs 454 € mensualité = 14 €/mois de poche).
 
+    **Projection réinvestissement vs distribution** (80 097 € SCPI, ~454 €/mois
+    bruts = ~326 €/mois nets après TMI 11 %, taux net SCPI ~4,88 %) :
+    - Réinvestir en SCPI : 104 998 € (3 ans) / 123 713 € (5 ans) / 179 202 € (10 ans)
+    - Prendre + consommer : 92 398 € / 101 631 € / 128 954 € → coût = −12,6k / −22k / −50k
+    - Prendre + livret 1,7 % : 104 420 € / 122 014 € / 171 527 € → coût = −0,6k / −1,7k / −7,7k
+    → Consommer les dividendes = choix de consommation (22 000 € perdus à 5 ans),
+    pas une optimisation. Prendre les dividendes ET les poser sur livret ne coûte
+    que ~1 700 € à 5 ans vs réinvestir → meilleur compromis trésorerie/capitalisation.
+    Solder le crédit reste le pire : −26 888 € capital + −4 000 € rendement.
+
 ## Points de vigilance
 
 - **Iroko Zen** : frais de sortie 6 % avant 3 ans (0 % après 3 ans) — mais à partir
