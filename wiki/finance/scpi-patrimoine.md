@@ -10,6 +10,7 @@ Situation patrimoniale immobilière (SCPI) de Chris et analyse de l'arbitrage
     objectif mensuel 350 € atteint à 99 %
   - CORUM Origin : **20 740,49 €** — 18,27356 parts — progression +12,4 %,
     revenus générés 2 571,58 € dont 740,51 € réinvestis
+- **Cash dormant : ~20 000 €** sur compte bancaire (rendement ~0 %)
 - **Crédit immo** (finance le studio, acheté 60k + frais de notaire) :
   - Capital restant dû : **26 888,68 €** — échéance **454,25 €/mois** (assurance incluse ~7,5 €/mois)
   - **Taux fixe : 1,17 %** — début 02/09/2019, fin 07/09/2031 (144 mois, ~5-6 ans restants)
@@ -41,14 +42,20 @@ de la SCPI sur le même capital.
 
 ### Verdict (TMI 11 %)
 
-1. **NE PAS solder.** Le crédit à 1,17 % est une aubaine : c'est l'argent le moins
-   cher qu'on puisse avoir. Le solder reviendrait à éteindre un levier à spread +3,9 pts.
-2. **Garder la SCPI, continuer à investir** les liquidités si besoin — le rendement
-   net (5,08 %) bat largement le coût du crédit (1,17 %).
-3. L'arbitrage initial du classeur « +3 257 € SCPI » tenait ; ici il est massivement
-   favorable à la SCPI, sans même discuter.
-4. Si besoin de cash, **rembourser par anticipation n'est pas prioritaire** : ce
-   crédit coûte moins cher que tout placement sûr. On le garde jusqu'au bout.
+1. **NE PAS solder le crédit avec les 20k cash.** Le crédit à 1,17 % est une aubaine :
+   c'est l'argent le moins cher qu'on puisse avoir. Rembourser par anticipation 20k
+   n'économise que **~765 € d'intérêts sur 5 ans**.
+2. **L'arbitrage porte sur les 20k cash, pas sur le crédit** — les comparer :
+   - Solder 20k du crédit (1,17 %) : économise ~765 € sur 5 ans
+   - Livret A / LDDS (~2 %) : ~2 000 € sur 5 ans, liquide, sans risque
+   - SCPI (5,08 % net TMI 11 %) : **~5 076 € sur 5 ans**, mais avec risque
+   - → Solder le crédit est le **pire** usage des 20k : même un livret bat le
+     remboursement anticipé.
+3. **Si peur du risque SCPI** : livret à ~2 % — bat le crédit ET reste liquide.
+4. **Garder un matelas de sécurité** : ne pas tout mettre en SCPI, conserver
+   6-12 mois de dépenses en cash/livret.
+5. Garder la SCPI existante jusqu'au bout : le rendement net (5,08 %) bat
+   largement le coût du crédit (1,17 %), c'est le levier positif à conserver.
 
 ## Points de vigilance
 
