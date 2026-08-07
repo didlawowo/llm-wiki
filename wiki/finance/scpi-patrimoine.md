@@ -51,10 +51,21 @@ de la SCPI sur le même capital.
    - SCPI (5,08 % net TMI 11 %) : **~5 076 € sur 5 ans**, mais avec risque
    - → Solder le crédit est le **pire** usage des 20k : même un livret bat le
      remboursement anticipé.
-3. **Si peur du risque SCPI** : livret à ~2 % — bat le crédit ET reste liquide.
-4. **Garder un matelas de sécurité** : ne pas tout mettre en SCPI, conserver
+3. **Le cash-flow libéré ne change pas le verdict** (calcul complet à 5 ans,
+   même point de départ : 20k + crédit 26 888 €, mensualités libérées réinvesties) :
+   - Garder le crédit + 20k en SCPI : **25 765 €**
+   - Solder 20k + réinvestir les 454 €/mois libérés en SCPI : **21 917 €** (−3 848 €)
+   - Solder 20k + mensualités libérées sur livret 2 % : 20 720 €
+   - Le 450 €/mois libéré n'est pas immédiat : solder 20k laisse 6 888 € de crédit,
+     la mensualité court encore 16 mois ; et il est payé par 20k de cash qui
+     auraient rapporté 5,08 % net en SCPI.
+4. **La SCPI finance déjà le crédit** : revenus SCPI ~450 €/mois (349,65 Iroko +
+   ~104 CORUM) ≈ mensualité 454,25 € → le crédit est auto-financé, il ne sort
+   rien de la poche de Chris.
+5. **Si peur du risque SCPI** : livret à ~2 % — bat le crédit ET reste liquide.
+6. **Garder un matelas de sécurité** : ne pas tout mettre en SCPI, conserver
    6-12 mois de dépenses en cash/livret.
-5. Garder la SCPI existante jusqu'au bout : le rendement net (5,08 %) bat
+7. Garder la SCPI existante jusqu'au bout : le rendement net (5,08 %) bat
    largement le coût du crédit (1,17 %), c'est le levier positif à conserver.
 
 ## Points de vigilance
