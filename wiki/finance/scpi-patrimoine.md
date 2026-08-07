@@ -84,6 +84,18 @@ de la SCPI sur le même capital.
    6-12 mois de dépenses en cash/livret.
 9. Garder la SCPI existante jusqu'au bout : le rendement net (5,08 %) bat
    largement le coût du crédit (1,17 %), c'est le levier positif à conserver.
+10. **LE vrai levier de trésorerie : basculer les SCPI en distribution.**
+    Les revenus SCPI (~454 €/mois : 349,65 Iroko + ~104 CORUM) sont réinvestis
+    automatiquement → 0 € dispo sur le compte alors que le patrimoine capitalise.
+    Chris cherche « 454 €/mois de beurre dans les épinards » : arrêter le
+    réinvestissement (réglage espace client Louve Invest + CORUM) libère
+    **~454 €/mois sur le compte SANS vendre, SANS solder, SANS risque** — là où
+    solder le crédit libérerait la même trésorerie en sortant 26 888 € de capital
+    et en détruisant le matelas anti-vacance. Comparatif :
+    - Solder : +454 €/mois, −26 888 € capital, matelas détruit, −4 000 € sur 5 ans
+    - Distribution SCPI : +454 €/mois, 0 € capital sorti, matelas intact
+    → Le crédit n'est pas le problème de trésorerie : le loyer du studio le paie
+    déjà (520 € − 80 € charges vs 454 € mensualité = 14 €/mois de poche).
 
 ## Points de vigilance
 
