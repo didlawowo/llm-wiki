@@ -44,6 +44,11 @@ Fichier de travail principal : [`mairies_73_74_prospection.xlsx`](../../data/gum
 - Email HTML : [`gumpy_email_template.html`](../../data/gumpy-prospection/gumpy_email_template.html)
 - QR code : [`gumpy_qr.png`](../../data/gumpy-prospection/gumpy_qr.png)
 
+## Sources
+
+- Données brutes : `data/gumpy-prospection/` (scrap annuaires 08/2026, templates, contacts)
+- Templates mail & relance : fichiers du même dossier
+
 ## Liens
 
 - → [Gumpy](index.md) · [Index](../index.md)

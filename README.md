@@ -37,3 +37,4 @@ llm-wiki/
 - **Rapports ponctuels** : datés `YYYY-MM-DD_sujet.ext`, dans `wiki/<topic>/` ou à la racine d'un projet.
 - **Push** : exception accordée par Chris — Hermes pousse directement sur `main` pour ce repo.
 - **Confidentialité** : repo privé, pas d'info perso sensible en clair au-delà de ce que Chris valide.
+- **Sources obligatoires** : chaque page cite ses sources (lien + date). Aucun fait sans source — on ne devine pas, on ne recopie pas sans vérifier, on ne laisse pas traîner une info non sourcée.

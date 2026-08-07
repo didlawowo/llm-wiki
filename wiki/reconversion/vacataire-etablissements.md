@@ -87,6 +87,12 @@ Circuit : PUBLIC = dossier vacataire (décret 87-889) · PRIVÉ = candidature di
 5. **CNAM / GRETA / FormaSup** (formation continue — recrutement continu)
 6. **Wild Code School / Le Wagon / Jedha / Simplon** (bootcamps, réactifs, format court)
 
+## Sources
+
+- Recherches web août 2026 : sites officiels des établissements, L'Étudiant, PagesJaunes, Onisep, lyoncampus, coteformations
+- ESME / ECE / ECAM / CNAM / Simplon vérifiés sur sites officiels le 07/08/2026
+- ⚠️ Vérifier avant envoi les adresses mail génériques (aller sur le site officiel)
+
 ## Liens
 
 - → [Reconversion](index.md) · [Catalogue de cours](vacataire-catalogue.md) · [Index](../index.md)

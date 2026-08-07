@@ -51,6 +51,11 @@ Dispositif France Travail : immersion non rémunérée, couverte par l'assurance
 > Je suis disponible à partir du `[date]` et m'adapte à votre organisation. Seriez-vous ouvert à en discuter par téléphone ?
 > Bien cordialement, **Christian Didelot** — 07 83 96 97 28 — didelot.c@gmail.com
 
+## Sources
+
+- Recherches web 31/07-01/08/2026 : annuaires (Pappers, PagesJaunes, annuaire-entreprises.data.gouv.fr, INSEE/SIRENE)
+- Coordonnées à re-vérifier avant contact (données datées)
+
 ## Liens
 
 - → [Reconversion](index.md) · [Index](../index.md)

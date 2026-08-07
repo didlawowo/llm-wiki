@@ -50,6 +50,12 @@ Ne jamais proposer 8 cours séparés → **packager en offres** (voir plus bas).
 - Tradeoff : bloc 1 = volume/stabilité mais correction chronophage ; bloc 2 = valorisant, peu de volume, mais ouvre formation continue/entreprises mieux payées.
 - Saison : candidatures spontanées idéalement **mai-juin** (maquettes de rentrée).
 
+## Sources
+
+- Skill `vacataire-enseignement-superieur` (catalogue + cadre légal), août 2026
+- Décret n° 87-889 du 29/10/1987 — legifrance.gouv.fr
+- « IA & transformation du travail » : proposition discutée en session 08/2026 (à valider)
+
 ## Liens
 
 - → [Reconversion](index.md) · [Établissements](vacataire-etablissements.md) · [Index](../index.md)

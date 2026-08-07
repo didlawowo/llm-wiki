@@ -67,6 +67,12 @@ Fiche vivante de la voiture de Chris — specs, entretien, échéances, chantier
 - Sources occasion : Jaqu'Auto, Careco, GPA 26, Cazenave, Autocasse 25, Kleinanzeigen.de (gros du stock 9N), TEILeHABER, Ovoko, eBay.
 - Kits : [TENDEEVOLUTION beige](https://www.amazon.fr/TENDEEVOLUTION-Garniture-D%C3%A9collet%C3%A9-R%C3%A9paration-Caoutchouc/dp/B097S28FW4), ciel-de-toit.com.
 
+## Sources
+
+- Carnet constructeur Polo 9N 1.4 TDI (échéances) — entretien-auto.com, consulté 08/2026
+- Prix pièces : auto-doc / Oscaro, config août 2026 (sessions Hermes)
+- Casses & kits ciel de toit : recherche web 08/2026 (Kleinanzeigen, TEILeHABER, TENDEEVOLUTION…)
+
 ## Liens
 
 - → [Mécanique](index.md) · [Index](../index.md)
