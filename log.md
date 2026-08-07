@@ -12,3 +12,4 @@ Format : `## [AAAA-MM-JJ] type | Titre` — parseable (`grep "^## \[" log.md | t
 ## [2026-08-07] ingest | Dev — page Homelab (hardware raspberry-cluster + apps ArgoCD)
 ## [2026-08-07] ingest | Dev — page précos LLM Wiki Karpathy + audit implémentation
 ## [2026-08-07] schema | AGENTS.md créé (le schema du wiki) + log.md + index enrichi
+## [2026-08-07] ingest | Finance — page SCPI & arbitrage crédit (Iroko Zen, CORUM, crédit studio 6,38 %)
